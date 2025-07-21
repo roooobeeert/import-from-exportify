@@ -1,0 +1,19 @@
+{
+    "name": "rober/import-from-exportify",
+    "description": "PHP library to import Exportify CSV exports.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "figlrobe",
+            "email": "robert.figl@uni-a.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Rober\\ImportFromExportify\\": "src/"
+        }
+    },
+    "require": {}
+}
